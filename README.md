@@ -104,4 +104,10 @@ Your homepage greets you by name and displays the current date and time, creatin
 
 ---
 
+## Setup Note
+
+This solution includes an example icon that can be used when adding this homepage to your Dynamics 365 interface. However, you're free to choose any icon you prefer to match your organization's branding. The example icon provided comes from [Iconoir](https://iconoir.com/), a free and open-source icon library.
+
+---
+
 This homepage transforms your daily Contact Center experience from complicated to simple, from slow to fast, and from overwhelming to manageable. Welcome to your new command center!
